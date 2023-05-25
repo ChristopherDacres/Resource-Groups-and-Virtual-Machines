@@ -28,17 +28,21 @@ This tutorial will outline the steps to creating a resource group and deploying 
 <img src="https://i.imgur.com/rztZV56.png"/>
   
   
-  <h2> Name Resource Group and Select a Region </h2>
+  <b> Name Resource Group and Select a Region </b>
   
   <img src="https://i.imgur.com/xVhoblW.png"/>
   
-  <h2> Once Validation Passed, Select Create </h2>
+  <b> Once Validation Passed, Select Create </b>
   
   <img src="https://i.imgur.com/0ixROjh.png"/>
   
-  <h2> The Resource Group is Created successfully </h2>
+  <b> The Resource Group is Created successfully </b>
   
-  <p>Now Click on Virtual Machines. If you do not see It at the top type It In the bar above</p>
+  <p> Now click the on the Virtual Machines. If you do not see it you can type in the search bar </p>
+  
+  <img src="https://i.imgur.com/XgDm7kE.png"/>
+  
+  
   
   
 
