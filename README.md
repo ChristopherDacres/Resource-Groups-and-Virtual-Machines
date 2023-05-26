@@ -42,6 +42,60 @@ This tutorial will outline the steps to creating a resource group and deploying 
   
   <img src="https://i.imgur.com/XgDm7kE.png"/>
   
+  <b> Click Azure Virtual Machine</b>
+  
+  <img src="https://i.imgur.com/1xrF7G0.png"/>
+  
+- Click the Resource Group that was created Earlier
+- Name the Virtual Machine
+- Select the region (should be the same as the resource group)
+- Availablity Options (No Infrastructure redundancy required)
+- Choose Standard size for Security Type 
+- Select Windows 10 Pro under Image (Free Service Eligible)
+  
+  <img src="https://i.imgur.com/fAUecRA.png"/>
+  
+  <b>Create an username and password (Please remember the PW created will need for Remote Desktop)</b>
+
+  <p>Click Review+Create at the bottom (Typically may not need to edit any of the other tabs)</p>
+  
+   <img src="https://i.imgur.com/9xMJ2IC.png"/>
+  
+  <b> Select Create </b>
+  
+  <img src="https://i.imgur.com/EIs8ojz.png"/>
+  
+  <b>Create the Second Virtual Machine</b>
+
+  <p>This Virtual Machine will be the Domain Controller (Windows server 2022)</p>
+
+- Make sure to select the Same Resource Group
+- Select the Same Region
+- Name the Virtual Machine (Something Similar to Remind you of the Domain Controller Ex DC1)
+- Select Windows Server 2022
+- Choose Standard Size
+- Select a Username and Password 
+  
+  <img src="https://i.imgur.com/XQ5h0eY.png"/>
+  <img src="https://i.imgur.com/44iQiEt.png"/>
+  
+  <h1> Log into the Virtual Machines Using Remote Desktop </h1>
+  <b>Log into the Domain Controller</b>
+  
+  
+  
+  <b></b>
+  <p></p>
+  <b></b>
+  <p></p>
+  <b></b>
+  <p></p>
+  <b></b>
+  <p></p>
+  <b></b>
+  <p></p>
+  <b></b>
+  <p></p>
   
   
   
