@@ -15,7 +15,7 @@ This tutorial will outline the steps to creating a resource group and deploying 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-- Ubunto LT
+- Windows Server (2022)
 
 <h2>Creating Resource Groups</h2>
 
