@@ -80,23 +80,28 @@ This tutorial will outline the steps to creating a resource group and deploying 
   <img src="https://i.imgur.com/44iQiEt.png"/>
   
   <h1> Log into the Virtual Machines Using Remote Desktop </h1>
-  <b>Log into the Domain Controller</b>
   
+- Log in using the specific Virtual Machines Public IP address (The Domain Controller and Client will have its own Public IP Address)
+- Select Connect on the Remote Desktop
+- Enter in Credentials from creating the Virtual Machines (Username & Password)
+- Successfully Connected to each Virtual Machine
   
+  <img src="https://i.imgur.com/ztCoY16.png"/>
+  <img src="https://i.imgur.com/gyPBnyn.png"/>
+  <img src="https://i.imgur.com/oidQoTu.png"/>
+  <img src="https://i.imgur.com/78LmhzC.png"/>
   
-  <b></b>
-  <p></p>
-  <b></b>
-  <p></p>
-  <b></b>
-  <p></p>
-  <b></b>
-  <p></p>
-  <b></b>
-  <p></p>
-  <b></b>
-  <p></p>
+  <h1> Utilizing Command Prompt (CMD) to check which Virtual Machine Is Logged In </h1>
   
+- Type in "CMD" into the search bar
+- Select Command Prompt
+- Type in "hostname" into Command Line (This will allow you to see which machine is logged into)
+  
+  <img src="https://i.imgur.com/QH6FuvE.png"/>
+  <img src="https://i.imgur.com/EP7Aflh.png"/>
+  <img src="https://i.imgur.com/IrLeIQx.png"/>
+  
+  This will conclude the steps in this Project
   
   
 
